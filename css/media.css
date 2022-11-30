@@ -1,0 +1,440 @@
+@media (max-width: 1199px) {
+    .phone {
+        right: 5%;
+        width: 87%;
+    }
+
+    .like {
+        padding: 25px 0;
+    }
+
+    .like-data h1 {
+        font-size: 30px;
+    }
+
+    .like-data h2 {
+        font-size: 28px;
+    }
+
+    .contact_form {
+        padding: 35px;
+    }
+
+    .contact {
+        padding-bottom: 270px;
+    }
+}
+
+@media (max-width: 991px) {
+    header {
+        padding-bottom: 10px;
+    }
+
+    .phone {
+        right: 0;
+        width: 90%;
+    }
+
+    .banner-left h1 {
+
+        font-size: 37px;
+
+    }
+
+    .toggler-icon i {
+        color: #fff;
+    }
+
+    .navbar-nav {
+        align-items: center;
+    }
+
+    .nav-item {
+        padding: 0;
+    }
+
+    .nav-link {
+        display: inline-block;
+    }
+
+    .owl-nav .owl-prev {
+
+        top: 60%;
+        left: -4%;
+
+    }
+
+    .owl-nav .owl-next {
+
+        top: 60%;
+        right: -4%;
+
+    }
+
+    .like-data h1 {
+        font-size: 21px;
+    }
+
+    .like-data h2 {
+        font-size: 21px;
+    }
+
+    .bt-like {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .bt-like .btn-download {
+        padding: 13px 16px;
+        font-size: 13px;
+    }
+
+    .bt-like .btn-view {
+        padding: 13px 16px;
+        font-size: 13px;
+    }
+
+    .contact span {
+        margin-bottom: 0;
+    }
+
+    .contact_form {
+        padding: 30px;
+        width: 70%;
+    }
+
+    .contact {
+        padding-bottom: 270px;
+    }
+}
+
+@media (max-width: 767px) {
+    header {
+        padding-bottom: 20px;
+    }
+
+    .navbar-light .navbar-brand {
+        width: 20%;
+    }
+
+    .navbar-brand img {
+        width: 85%;
+    }
+
+    .banner-left h3 {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .banner-left h1 {
+
+        font-size: 29px;
+
+        text-align: center;
+
+    }
+
+    .banner-left p {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+
+    .phone2 {
+        display: none;
+    }
+
+    .btn-download {
+        padding: 10px 11px;
+        font-size: 14px;
+    }
+
+    .btn-view {
+        padding: 10px 11px;
+        font-size: 14px;
+    }
+
+    .phone-left1 {
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .phone-left1 img {
+
+        width: 60%;
+
+    }
+
+    .product h1 {
+        font-size: 30px;
+    }
+
+    .product span {
+        width: 8%;
+        margin-top: 8px;
+    }
+
+    .mb-5 {
+        margin-bottom: 1rem !important;
+    }
+
+    .pro p {
+
+        margin-top: 5px;
+        font-size: 15px;
+    }
+
+    .pro h2 {
+
+        font-size: 25px;
+
+    }
+
+    .pro-icon {
+        height: 65px;
+        width: 65px;
+        line-height: 65px;
+        margin-bottom: 10px;
+
+    }
+
+    .item-phone {
+        padding: 40px 0 0px;
+    }
+
+    .item-phone-img {
+
+        width: 60%;
+        margin: auto;
+    }
+
+    .item-phone .mt-5 {
+        margin-top: 1rem !important;
+    }
+
+    .item-phone h3 {
+        font-size: 16px;
+    }
+
+    .item-phone h1 {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+
+    .item-phone span {
+        width: 8%;
+        margin-bottom: 30px;
+    }
+
+    .item-phone ul {
+
+        margin-top: 30px;
+    }
+
+    .smartphone {
+        padding-top: 0;
+    }
+
+    .smartphone h1 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .smartphone h3 {
+        margin-top: 45px;
+    }
+
+    .smartphone span {
+        width: 8%;
+        margin-bottom: 35px !important;
+    }
+
+    .slider h3 {
+
+        font-size: 14px;
+
+    }
+
+    .slider h1 {
+
+        font-size: 35px;
+
+        margin-bottom: 12px;
+
+    }
+
+    .slider-top span {
+
+        width: 8%;
+
+        margin-bottom: 0px;
+    }
+
+    .client-data h1 {
+        font-size: 16px !important;
+    }
+
+    .client-data h3 {
+        font-size: 16px !important;
+    }
+
+    .owl-nav {
+        display: none;
+    }
+
+    .like-data h1 {
+        font-size: 30px;
+    }
+
+    .like-data h2 {
+        font-size: 24px;
+    }
+
+    .like {
+        padding: 20px 0;
+    }
+
+    .bt-like {
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .pricing {
+        padding: 35px 0;
+    }
+
+    .pricing h1 {
+        font-size: 35px;
+        margin-bottom: 12px;
+    }
+
+    .pricing h3 {
+        font-size: 14px;
+    }
+
+    .pricing span {
+        width: 8%;
+        margin-bottom: 0;
+    }
+
+    .pricing_table {
+        margin-top: 35px;
+    }
+
+    .pricing_table h1 {
+        font-size: 30px !important;
+    }
+
+    .pricing_section h2 {
+
+        font-size: 40px;
+    }
+
+    .pricing_section h2 sup {
+        font-size: 27px;
+
+    }
+
+    .pricing_table p {
+        margin-bottom: 0;
+        padding: 15px;
+    }
+
+    .contact {
+
+        padding: 30px 0;
+
+        padding-bottom: 380px;
+    }
+
+    .contact h3 {
+        font-size: 15px;
+    }
+
+    .contact h1 {
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+
+    .contact span {
+        width: 8%;
+        margin-bottom: 0;
+    }
+
+    .contact i {
+
+        margin-top: 35px;
+
+    }
+
+    .contact_form {
+
+        padding: 20px;
+
+        width: 90%;
+        bottom: -100px;
+
+    }
+
+    .contact_form form input[type="submit"] {
+        font-size: 13px;
+    }
+
+    footer {
+        padding: 10px 0;
+
+    }
+
+    .button-all {
+        text-align: center;
+    }
+}
+
+@media (max-width: 575px) {
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 19px;
+        font-weight: 500;
+
+    }
+
+    .navbar-light .navbar-brand {
+        width: 25%;
+    }
+
+    .like-data h1 {
+        font-size: 19px;
+    }
+
+    .like-data h2 {
+        font-size: 19px;
+    }
+
+
+    .bt-like {
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: left;
+    }
+
+    .contact {
+
+        padding: 30px 0;
+
+        padding-bottom: 380px;
+    }
+
+    .contact_form {
+
+        padding: 20px;
+
+        width: 90%;
+        bottom: -100px;
+
+    }
+}
